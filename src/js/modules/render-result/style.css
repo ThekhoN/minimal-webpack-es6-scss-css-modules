@@ -1,0 +1,8 @@
+.main {
+  color: violet;
+  border: 1px solid grey;
+}
+
+.main .special {
+  color: red;
+  font-weight: bold; }
